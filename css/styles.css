@@ -1,6 +1,10 @@
 
 
-
+body {
+text-align: center;
+width: 1000px;
+height: 100%;
+}
 
 a {
 background-color: transparent;
